@@ -6,7 +6,7 @@ export default function Header({ showBack = false, theme = 'light', onToggleThem
       <Link className="brand" to="/" aria-label="Go to rankings">
         <span className="brand-mark" aria-hidden="true">NC</span>
         <span>
-          <strong>Neural City</strong>
+          <strong>Neural City(Clone)</strong>
           <small>Indian city livability index</small>
         </span>
       </Link>
